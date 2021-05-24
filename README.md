@@ -5,7 +5,7 @@
 * 10 different genres to predict (Pop, Rock, Metal, Hiphop, Electronic, Classical, Country, Jazz, Blues, Reggae)
 * 450 songs gathered for each genre
 * Different ML Algorithms tested using Scikit-Learn to find the best for our case
-
+ 
 <p align="center">
   <img src="../main/img/correlation.png">
   <br /><b>Figure 1:</b> Correlation chart of the data

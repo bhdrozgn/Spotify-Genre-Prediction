@@ -5,6 +5,7 @@
 
 <p align="center">
   <img src="../main/img/correlation.png">
+  Correlation chart of the data
 </p><p align="center">
   <img src="../main/img/accuracies.png">
 </p><p align="center">

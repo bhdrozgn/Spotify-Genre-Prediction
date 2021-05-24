@@ -1,6 +1,7 @@
 # Spotify-Genre-Prediction
 * Spotify Song Genre Prediction
 * Data gathered using Spotipy
+* 10 different genres to predict (Pop, Rock, Metal, Hiphop, Electronic, Classical, Country, Jazz, Blues, Reggae)
 * Different ML Algorithms tested using Scikit-Learn to find the best for our case
 
 <p align="center">

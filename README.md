@@ -6,3 +6,5 @@
 ![Correlation](../main/img/correlation.png)
 ![Accuracies](../main/img/accuracies.png)
 ![Feature Importances](../main/img/feature_importances.png)
+
+<img align="right" src="../main/img/correlation.png">

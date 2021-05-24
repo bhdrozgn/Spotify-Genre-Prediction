@@ -6,10 +6,10 @@
 <p align="center">
   <img src="../main/img/correlation.png">
   <br /><b>Figure 1:</b> Correlation chart of the data
-</p><p align="center">
+</p><p align="center"><br />
   <img src="../main/img/accuracies.png">
   <br /><b>Figure 2:</b> Accuracies with different algorithms
-</p><p align="center">
+</p><p align="center"><br />
   <img src="../main/img/feature_importances.png">
   <br /><b>Figure 3:</b> Impurity based feature importances of Random Forest
 </p>

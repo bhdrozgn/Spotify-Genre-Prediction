@@ -10,7 +10,7 @@
   <img src="../main/img/correlation.png">
   <br /><b>Figure 1:</b> Correlation chart of the data
 </p><p align="center"><br />
-  <img width=480 src="../main/img/accuracy.png">
+  <img width=400 src="../main/img/accuracy.png">
   <br /><b>Figure 2:</b> Accuracies with different algorithms
 </p><p align="center"><br />
   <img src="../main/img/feature_importances.png">

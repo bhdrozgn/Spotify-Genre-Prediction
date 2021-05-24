@@ -1,7 +1,7 @@
 # Spotify-Genre-Prediction
 * Spotify Song Genre Prediction
 * Data gathered using Spotipy
-* Attributes are sound features: danceability, energy, key, loudness, mode, speechiness, acousticness, instrumentalness, liveness, valence, tempo, genre
+* Attributes are sound features: danceability, energy, key, loudness, mode, speechiness, acousticness, instrumentalness, liveness, valence, tempo
 * 10 different genres to predict (Pop, Rock, Metal, Hiphop, Electronic, Classical, Country, Jazz, Blues, Reggae)
 * 450 songs gathered for each genre
 * Different ML Algorithms tested using Scikit-Learn to find the best for our case

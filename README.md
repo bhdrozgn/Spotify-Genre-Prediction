@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="../main/img/correlation.png">
-  <br />Correlation chart of the data
+  <br /><b>Figure 1:</b> Correlation chart of the data
 </p><p align="center">
   <img src="../main/img/accuracies.png">
 </p><p align="center">
